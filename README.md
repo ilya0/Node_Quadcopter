@@ -1,2 +1,2 @@
-# Node_Quadcopter
-# Node_Quadcopter
+# NodeCoper
+Working on creating a quadcopter capable of being controlled with node and websockets (I think)

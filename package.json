@@ -1,0 +1,22 @@
+{
+  "name": "node_quadcopter",
+  "version": "1.0.0",
+  "description": "Working on creating a quadcopter capable of being controlled with node and websockets (I think)",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilya0/Node_Quadcopter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilya0/Node_Quadcopter/issues"
+  },
+  "homepage": "https://github.com/ilya0/Node_Quadcopter#readme",
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  }
+}
