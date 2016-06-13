@@ -1,4 +1,4 @@
-//this is a test flight nneds to have a io socket
+//this is a test flight nneds to have a io socket and stuff
 
 var arDrone = require('ar-drone');
 var client = arDrone.createClient();
